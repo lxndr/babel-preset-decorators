@@ -1,12 +1,9 @@
 {
-  "name": "babel-preset-decorators",
+  "name": "@lxndr/babel-preset-decorators",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "lxndr",
   "license": "ISC",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.1.0",
